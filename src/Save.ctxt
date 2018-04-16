@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Save
+comment1.params=doc
+comment1.target=Save(javax.swing.text.Document)
+comment2.params=
+comment2.target=javax.swing.text.Document\ getDocument()
+numComments=3

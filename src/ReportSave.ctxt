@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ReportSave
+comment1.params=Name\ Fname\ Email\ EmailData
+comment1.target=ReportSave(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEmailData()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment5.params=
+comment5.target=java.lang.String\ getFirstName()
+numComments=6

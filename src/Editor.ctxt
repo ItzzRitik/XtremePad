@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Editor
+comment1.params=note
+comment1.target=Editor(notepad)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4

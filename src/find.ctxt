@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=find
+comment1.params=mynote
+comment1.target=find(notepad)
+comment2.params=evt
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=wht
+comment4.target=boolean\ find(int)
+comment5.params=
+comment5.target=void\ find_next()
+comment6.params=
+comment6.target=void\ replace()
+comment7.params=
+comment7.target=void\ replace_all()
+numComments=8

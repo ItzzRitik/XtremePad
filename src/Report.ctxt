@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Report
+comment1.params=note
+comment1.target=Report(notepad)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=Name
+comment3.target=java.lang.String\ Title(java.lang.String)
+comment4.params=
+comment4.target=void\ Submit()
+comment5.params=Name\ Firstname\ Email\ EmailData\ ReportFile\ Thanks
+comment5.target=void\ SendReport(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.io.File,\ int)
+comment6.params=
+comment6.target=javax.mail.PasswordAuthentication\ getPasswordAuthentication()
+comment7.params=evt
+comment7.target=void\ optionSelected(ch.randelshofer.quaqua.SheetEvent)
+comment8.params=
+comment8.target=void\ Transparent()
+numComments=9

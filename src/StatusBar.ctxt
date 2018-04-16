@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StatusBar
+comment1.params=
+comment1.target=StatusBar()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
